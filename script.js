@@ -1,6 +1,6 @@
 // Configuración de la API
 //const API_BASE_URL = 'https://tu-app.onrender.com/api'; // Para desarrollo local
-const API_BASE_URL = 'https://tu-app.onrender.com/api'; // Para producción
+const API_BASE_URL = 'https://backend-797w.onrender.com'; // Para producción
 // Variables globales
 let currentUser = null;
 // Función que se ejecuta cuando la página carga
