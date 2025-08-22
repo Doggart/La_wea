@@ -1,5 +1,5 @@
 // Configuración de la API
-const API_BASE_URL = 'https://tu-app.onrender.com/api'; // Para desarrollo local
+//const API_BASE_URL = 'https://tu-app.onrender.com/api'; // Para desarrollo local
 // const API_BASE_URL = 'https://tu-app.onrender.com/api'; // Para producción
 // Variables globales
 let currentUser = null;
